@@ -1,4 +1,4 @@
-Hola 👋
+**Hola** 👋
 
 📊 Studying Data Science for Public Policy at LSE 🇬🇧  
 🧑🏼‍💻 Code work in R, Python and Stata  
