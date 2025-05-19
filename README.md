@@ -8,4 +8,8 @@
 - 🪈 Love working the full data pipeline — from structuring and cleaning data to modeling and interactive visualizations.
 - 📧: juani.piquer@gmail.com
 
+
+
+      
+
 Recent work: Advance analytics dashboard for the UK Foriegn Office https://fcdo-dspp-capstone.github.io/fcdo_dspp_repo/
