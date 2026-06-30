@@ -9,3 +9,6 @@
 - 📊 Recent work: Advance analytics dashboard for the UK Foriegn Office https://fcdo-dspp-capstone.github.io/fcdo_dspp_repo/
 - 💼 Currently working as Senior Data Scientist in the AI ​​team at Walmart Chile
 - 📧: juani.piquer@gmail.com
+
+
+PS: Always use viridis palette as default. Color blind people is ~5% of world population.
