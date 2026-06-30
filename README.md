@@ -1,6 +1,6 @@
 ### Hola 👋
 
-- 📈 MPA Data Science for Public Policy (LSE)
+- 🎓 MPA Data Science for Public Policy (LSE)
 - 🧑🏼‍💻 Code work in Python and R
 - 📖 Previously trained as a historian and public policy maker
 - 🗳️ For most of my adult life I’ve worked in the overlap and interactions of elections, politics, and economics using socio-demographic data and statistics.
