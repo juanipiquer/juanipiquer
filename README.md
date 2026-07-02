@@ -11,4 +11,4 @@
 - 📧: juani.piquer@gmail.com
 
 
-PS: Always use viridis palette as default. Color blind people is ~5% of world population.
+PS: Always use viridis palette as default or similar (more info in https://bids.github.io/colormap/). Color blind people is ~5% of world population.
